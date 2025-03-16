@@ -1,0 +1,28 @@
+{
+    "version": "0",
+    "id": "929ee9f0-4e45-4b49-8105-68b472852759",
+    "detail-type": "Object Created",
+    "source": "aws.s3",
+    "account": "659814193837",
+    "time": "2025-03-16T16:07:59Z",
+    "region": "eu-west-2",
+    "resources": [
+      "arn:aws:s3:::geng-src-bucket-honestly-hot-kite"
+    ],
+    "detail": {
+      "version": "0",
+      "bucket": {
+        "name": "geng-src-bucket-honestly-hot-kite"
+      },
+      "object": {
+        "key": "Canon_40D.jpg",
+        "size": 7958,
+        "etag": "d848e0b4f73fb877d25118bd2ead0d0c",
+        "sequencer": "0067D6F75F578443D5"
+      },
+      "request-id": "9XRWN5RSF7AF04ZA",
+      "requester": "659814193837",
+      "source-ip-address": "109.146.228.159",
+      "reason": "PutObject"
+    }
+  }

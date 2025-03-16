@@ -1,0 +1,5 @@
+.venv
+resources/layer/**
+.terraform
+.terraform.lock.hcl
+**/*.zip

@@ -1,0 +1,4 @@
+bucket = "<your-state-bucket>"
+key = "terraform/states/dev/gen-eng-tech-challenge/terraform.tfstate"
+encrypt = true
+region = "eu-west-2"
